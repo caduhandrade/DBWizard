@@ -13,6 +13,7 @@ class Program
         {
             UpdateDatabase(scope.ServiceProvider);
         }
+        
     }
 
     private static IServiceProvider CreateServices()
